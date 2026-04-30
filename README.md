@@ -2,6 +2,9 @@
 
 An interactive chatbot application that simulates conversations with different personas using AI-powered language models. Built with a React frontend and Express backend, this project demonstrates personality-driven chat interactions.
 
+## Live URL
+https://personachatbot-sst-genai.netlify.app/
+
 ## Overview
 
 PersonaChatbot allows users to chat with multiple AI personas (Kshitij, Anshumann, and Abhimanyu), each with unique system prompts that define their personality and conversation style. The application uses OpenRouter's API for LLM capabilities.
